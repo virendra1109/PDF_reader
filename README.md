@@ -51,5 +51,6 @@ Replace `"merged.pdf"` with your desired filename.
 
 ## Acknowledgments
 - This script utilizes the PyPDF2 library for PDF manipulation.
+- Created by Virendra Singh
 
 Feel free to contribute to this project or provide feedback. If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/virendra1109).
